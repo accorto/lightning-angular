@@ -1,0 +1,23 @@
+{
+  "name": "lightning-angular",
+  "version": "0.0.0",
+  "description": "Angular2 with Lightning Design System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/accorto/lightning-angular.git"
+  },
+  "keywords": [
+    "angular2",
+    "lightning design system"
+  ],
+  "author": "Accorto",
+  "license": "LGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/accorto/lightning-angular/issues"
+  },
+  "homepage": "https://github.com/accorto/lightning-angular#readme"
+}
